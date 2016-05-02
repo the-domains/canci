@@ -1,0 +1,28 @@
+name: Canci
+favicon: null
+layout_spectrum: 0.4370344008784741
+typography_spectrum: 0.7122454615309834
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7082210381049663
+  lightness: 0.1533124225679785
+  saturation: 0.2849703838583082
+  rhythmicContrast: 0.8328661033883691
+purpose: []
