@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Combining unforgettable hooks with a playful bite in her lyrics, Canci's music is a unique blend of urban and immaculately executed indie pop."
-datePublished: '2016-05-02T10:49:51.884Z'
-dateModified: '2016-05-02T10:49:36.190Z'
+datePublished: '2016-05-02T13:18:55.268Z'
+dateModified: '2016-05-02T13:18:54.836Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-combining-unforgettable-hooks-with-a-playful-bite-in-her-lyr.md
