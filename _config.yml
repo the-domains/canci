@@ -1,7 +1,7 @@
 name: Canci
 favicon: null
-layout_spectrum: 0.4370344008784741
-typography_spectrum: 0.7122454615309834
+layout_spectrum: 0.3301
+typography_spectrum: 0.1766
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f8f9fe'
-    - '#00a79d'
-    - '#000004'
-    - '#87888a'
-    - '#e23a77'
-  brandStrength: 0.7082210381049663
-  lightness: 0.1533124225679785
-  saturation: 0.2849703838583082
-  rhythmicContrast: 0.8328661033883691
+    - '#fffff7'
+    - '#0fbdb3'
+    - '#1e0930'
+    - '#ff4a2b'
+    - '#894b50'
+  brandStrength: 0.1875
+  lightness: 0.875
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
